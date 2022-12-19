@@ -5,9 +5,9 @@ A proteus implementation of a smart agricultural system
 
 
 ### Presentation & Report Files: 
-[Final Presentation.pptx](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515413/Final.Presentation.pptx)
+[Final Presentation](final presentation.pdf)
 
-[Final Report.pdf](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515414/Final.Report.pdf)
+[Final Report.pdf](final report.pdf)
 
 
 
